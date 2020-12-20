@@ -1,4 +1,4 @@
-package com.pbljt.tij.chapter4_operators;
+package com.pbljt.tij.capter4_operators;
 
 
 /**
